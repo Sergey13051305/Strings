@@ -21,7 +21,6 @@ void main()
 	cout << pa << endl;
 	cout << *pa << endl;
 	cout << pa[0] << endl;*/
-
 	'\0';
 	const int SIZE = 256;
 	char str[SIZE] = "Аргентина манит негра";
