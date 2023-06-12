@@ -23,7 +23,7 @@ void main()
 	cout << pa[0] << endl;*/
 	'\0';
 	const int SIZE = 256;
-	char str[SIZE] = "Аргентина манит негра";
+	char str[SIZE] = "Хорошо   живет   на   свете   Винни   Пух";
 	//cout << "Введите строку: ";
 	////cin >> str;
 	//SetConsoleCP(1251);
